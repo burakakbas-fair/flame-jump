@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/flame-jump/', // GitHub Pages için repo adımızı buraya ekliyoruz
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
