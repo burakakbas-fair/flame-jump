@@ -1,0 +1,6 @@
+{
+  "name": "Flame Jump - Flutter & Flame 2D Platformer Studio",
+  "description": "Modular Flutter and Flame Engine 2D endless vertical platformer architecture with live interactive gameplay simulator, asset sprite guides, and downloadable codebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
